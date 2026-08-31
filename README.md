@@ -1,8 +1,8 @@
 # MVP de SSD: Dimensionamento de uma Nova Unidade de Armazenamento em Nuvem
 
-# Disciplina: Sistemas de Suporte à Decisão Universidade de Brasília (UnB)
-# Aluna: Maria Eduarda Moreno Oliani 
-# Matrícula: 231013458
+Disciplina: Sistemas de Suporte à Decisão Universidade de Brasília (UnB)
+Aluna: Maria Eduarda Moreno Oliani 
+Matrícula: 231013458
 
 # Sumário
 Problema de decisão
